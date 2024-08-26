@@ -3,6 +3,7 @@
 My name is Kristjan, and I'm an indie hacker from Estonia.
 
 🔭 I’m currently working on:
+- [Ilus AI](https://ilus.ai/) - Consistent illustration Generator
 - [bestValueGpu.com](https://bestvaluegpu.com) - Gpu comparison website
 - [Tailwind Grid Generator](https://www.tailwindgen.com/) - Drag-and-drop interface to build complex Tailwind grids.
 - [Logomark AI](https://logomark.ai/) - Custom-trained Stable Diffusion model exclusively focused on logo generation.
